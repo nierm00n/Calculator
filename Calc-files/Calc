@@ -27,9 +27,13 @@ namespace Calc
             System.Threading.Thread.Sleep(500);
 
             Console.WriteLine("Thank You for using Jay's Calc :)");
+            System.Threading.Thread.Sleep(500);
 
+            Console.Clear();
 
-            Console.ReadLine();
+            Console.Write("432hz biiih");
+            System.Threading.Thread.Sleep(500);
+
 
         }
     }
